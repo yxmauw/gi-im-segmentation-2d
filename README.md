@@ -1,2 +1,3 @@
-# gi-im-segmentation-2d
-Attempt at 2d image semantic segmentation
+# GI Tract Image Segmentation 2d
+
+Using data from [Kaggle](https://www.kaggle.com/competitions/uw-madison-gi-tract-image-segmentation/overview)
