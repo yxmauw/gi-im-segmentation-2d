@@ -6,3 +6,4 @@ Using data from [Kaggle](https://www.kaggle.com/competitions/uw-madison-gi-tract
 
 __Reference notebook:__
 * [Notebook 1](https://www.kaggle.com/code/limonhalder/uw-madison-gi-tract-image-segmentation/notebook)
+* [Rename multiple files](https://www.geeksforgeeks.org/rename-multiple-files-using-python/)
